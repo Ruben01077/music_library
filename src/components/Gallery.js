@@ -1,5 +1,5 @@
 import GalleryItem from './GalleryItem'
-import { DataContext } from './DataContext'
+import { DataContext } from '../context/DataContext'
 import { useContext } from 'react'
 
 
